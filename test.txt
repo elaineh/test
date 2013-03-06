@@ -1,1 +1,4 @@
-This is a new file created with the web flow
+This is a new file created with the web flow.
+Now I am editing on my Mac, with BBEdit
+I am supposed to type four lines
+altogether
